@@ -58,7 +58,8 @@ main {
     
     display:flex;
     align-items:center;
-    margin:20px;
+    margin:30px;
+    padding: 10px;
     background-color:rgb(16, 249, 245);
 }
 
@@ -71,6 +72,10 @@ h2 {
 
 }
 
+.desc {
+
+    margin-left:20px;
+}
 
 footer {
    
